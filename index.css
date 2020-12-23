@@ -16,6 +16,10 @@ h1{
 }
 
 
+.logo-nav-container img{
+  width: 6rem;
+  height: 6rem;
+}
 
 .main{
   padding-top: 6rem;
@@ -67,4 +71,46 @@ h1{
 
 .navegacion ul li a:hover{
   background: #ccc;
+}
+
+
+.slider{
+	margin-top:0px;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 100%;
+	overflow: hidden;
+}
+
+.slider ul{
+	display:flex;
+	padding:0;
+	width:400%;
+
+	animation: cambio 10s infinite;
+	animation-direction:alternate;
+}
+
+.slider li{
+	width:100%;
+	list-style:none;
+}
+
+.slider img{
+	width:100%;
+}
+
+@keyframes cambio{
+	0%{margin-left: 0;}
+	20%{margin-left:0;}
+
+	25%{margin-left:-100%;}
+	45%{margin-left:-100%;}
+
+	50%{margin-left:-200%;}
+	70%{margin-left:-200%;}
+
+	75%{margin-left:-300%;}
+	100%{margin-left:-300%;}
 }
