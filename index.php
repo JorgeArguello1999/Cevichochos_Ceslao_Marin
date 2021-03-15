@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Cevichochos de la Ceslao Marin</title>
     <link rel="stylesheet" href="index.css">
-    <link rel="icon" href="Imagenes/Logo.ico" type="image/ico">
+    <link rel="icon" href="imagenes/logo.png" type="image/png">
 
   </head>
   <body>
@@ -16,7 +16,7 @@
     <!--Ajustar para que el logo se concentre en la mitad del menu y distribuit
         todas las opciones por todo la parte inferior de esta imagen-->
 
-        <img src="Imagenes/Logo.jpg" alt="La imagen no esta soportada por el navegador">
+        <img src="imagenes/logo.png" alt="La imagen no esta soportada por el navegador">
 
 
         <!-- <a href="#" class="logo">LOGO</a> -->
@@ -35,11 +35,11 @@
 	
         <div class="slider">
                 <ul>
-                        <li><img src="Imagenes/imagen_1.jpg"></li>
-                        <li><img src="Imagenes/imagen_2.jpg"></li>
-			<li><img src="Imagenes/imagen_2.1.jpg"></li>
+                        <li><img src="imagenes/imagen_1.jpg"></li>
+                        <li><img src="imagenes/imagen_2.jpg"></li>
+			<li><img src="imagenes/imagen_2.1.jpg"></li>
                        <!-- <li><img src="Imagenes/Logo.ico"/></li> -->
-			<li><img src="Imagenes/imagen_3.jpg"></li>
+			<li><img src="imagenes/imagen_3.jpg"></li>
                 </ul>
 	</div>
 
