@@ -1,0 +1,58 @@
+.header{
+    background: #333;
+    color: white;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+  
+.header a{
+    color: white;
+    text-decoration: none;
+    align-items: center;
+    padding: 2rem 0;
+}
+.navegacion ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+  
+.navegacion ul li{
+    display: inline-block;
+}
+  
+.navegacion ul li a{
+    display: block;
+    padding: 0.5rem 1rem;
+    transition: all 0.45s linear;
+    font-size: medium;
+}
+  
+.navegacion ul li a:hover{
+    background: #ccc;
+}
+.logo-nav-container img{
+    width: 6rem;
+    height: 6rem;
+}
+  
+.main{
+    padding-top: 6rem;
+}
+  
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+    align-items: center;
+}
+  
+.container a{
+   text-decoration: none;
+}
