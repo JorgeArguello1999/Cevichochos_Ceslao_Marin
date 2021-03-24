@@ -1,0 +1,50 @@
+body{
+ font-family: georgia, times, serif; 
+ font-size: 1rem;
+ line-height: 1em;
+ margin: 0;
+}
+p{
+  margin-bottom: 1em;
+}
+.contenido{
+  width: 85%;
+  max-width: 850px;
+  margin: 0, auto;
+}
+h1{
+  font-size: 1.5rem;
+  line-height: 1em;
+}
+.menu_1{
+  background: #333;
+  color: white;
+  padding: 1.7rem 0;
+}
+.menu_1 a{
+  color: white;
+  text-decoration: none;
+}
+.submenu{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo img{
+  width: 100px;
+  height: auto;
+}
+.opciones ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.opciones ul li a{
+  display: block;
+  padding: 0.3rem 0.7em;
+  transition: all 0.4s linear;
+  border-radius: 10px;
+}
+.opciones ul li a:hover{
+  background: #c7eb7a;
+}
