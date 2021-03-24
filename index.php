@@ -4,10 +4,14 @@
 
     <meta charset="utf-8">
     <title>Cevichochos de la Ceslao Marin</title>
+    
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="cabecera.css">
     <link rel="stylesheet" href="slider.css">
+    
     <link rel="icon" href="imagenes/logo.png" type="image/png">
+
+    <script src="https://kit.fontawesome.com/a1fd19199b.js" crossorigin="anonymous"></script>
 
   </head>
   <body>

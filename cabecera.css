@@ -27,11 +27,13 @@
     display: block;
     padding: 0.5rem 1rem;
     transition: all 0.45s linear;
+    border-radius: 10px;
     font-size: medium;
 }
   
 .navegacion ul li a:hover{
-    background: #ccc;
+    background: #c7eb7a;
+    color: black;
 }
 .logo-nav-container img{
     width: 6rem;
