@@ -5,6 +5,7 @@
     left: 0;
     top: 0;
     width: 100%;
+    /*padding:1.42%;*/
 }
   
 .header a{
@@ -41,7 +42,7 @@
 }
   
 .main{
-    padding-top: 6rem;
+    padding-top: 4rem;
 }
   
 .logo-nav-container{

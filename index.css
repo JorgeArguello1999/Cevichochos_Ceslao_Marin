@@ -5,11 +5,22 @@ body{
   line-height: 1.4em;
   margin: 0;
 }
-p{
+main p{
   margin-top: 1.6em;
 }
-h1{
+main h1{
   font-size: 2rem;
   line-height: 1.3em;
+}
+main a{
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  color: black;
+  transition: all 0.45s linear;
+}
+main a:hover{
+    background: #89d631;
+    color: white;
 }
 
