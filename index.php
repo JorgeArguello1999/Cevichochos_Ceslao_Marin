@@ -52,12 +52,16 @@
 
         <!--Contenido-->
         <div class="container">
+          
+          <!--Nuestro menu-->
           <h1 id="Nuestro_Menu">Nuestro Menu</h1>
+          <p>Hola.</p>
+
           <h1 id="Nuestras_Ofertas">Nuestras Ofertas</h1>
 	        <h1 id="Quienes_Somos">¿Quienes Somos?</h1>
 	        <h1 id="Donde_nos_Encontramos">¿Donde nos Encontramos?</a></h1>
         </div>
-    
+
     </main>
 
     <footer>
@@ -97,7 +101,7 @@
 	          </div>
 
 	          <div class="row">
-	            <a href="jorge@gmail.com" target="_blank">
+	            <a href="mailto:jorge@gmail.com" target="_blank">
 	              <i class="far fa-envelope"></i>
 	              <label>Envianos un Email</label>
 	            </a>
