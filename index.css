@@ -7,6 +7,7 @@ body{
 }
 main p{
   margin-top: 1.6em;
+  text-align: justify;
 }
 main h1{
   font-size: 2rem;
@@ -24,6 +25,7 @@ main a:hover{
   color: white;
 }
 
-#Nuestro_Menu{
-  text-align: right;
+main{
+  text-align: center;
+  font-family: monospace;
 }

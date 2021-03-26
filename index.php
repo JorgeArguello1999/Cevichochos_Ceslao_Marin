@@ -29,8 +29,8 @@
           <ul>
             <li><a href="#Nuestro_Menu">Nuestro Menu</a></li>
             <li><a href="#Nuestras_Ofertas">Nuestras Ofertas</a></li>
-            <li><a href="#Quienes_Somos">¿Quienes Somos?</a></li>
             <li><a href="#Donde_nos_Encontramos">¿Donde nos Encontramos?</a></li>
+	    <li><a href="#Quienes_Somos">¿Quienes Somos?</a></li>
           </ul>
         
         </nav>
@@ -44,8 +44,8 @@
         <ul>
           <li><img src="imagenes/imagen_1.jpg"></li>
           <li><img src="imagenes/imagen_2.jpg"></li>
-	        <li><img src="imagenes/imagen_2.1.jpg"></li>
-	        <li><img src="imagenes/imagen_3.jpg"></li>
+	  <li><img src="imagenes/imagen_2.1.jpg"></li>
+	  <li><img src="imagenes/imagen_3.jpg"></li>
         </ul>
 	    </div>
 
@@ -58,8 +58,8 @@
           <p>Hola.</p>
 
           <h1 id="Nuestras_Ofertas">Nuestras Ofertas</h1>
-	        <h1 id="Quienes_Somos">¿Quienes Somos?</h1>
-	        <h1 id="Donde_nos_Encontramos">¿Donde nos Encontramos?</a></h1>
+	  <h1 id="Donde_nos_Encontramos">¿Donde nos Encontramos?</a></h1>
+	  <h1 id="Quienes_Somos">¿Quienes Somos?</h1>
         </div>
 
     </main>
@@ -80,7 +80,7 @@
 	        <h1>Contactanos</h1>	  
 	  
 	          <div class="row">
-	            <a href="#" target="_blank">
+	            <a href="tel:593984775776">
 	              <i class="fas fa-phone-alt"></i>
 	              <label>Llamanos o Mensajeanos al +593 984 775 776</label>
 	            </a>
@@ -99,25 +99,36 @@
 	              <label>Escribenos por Facebook: "Jaqueline Osejos"</label>
 	            </a>
 	          </div>
-
-	          <div class="row">
-	            <a href="mailto:jorge@gmail.com" target="_blank">
-	              <i class="far fa-envelope"></i>
-	              <label>Envianos un Email</label>
-	            </a>
-	          </div>
-
 	      </div>
 	
 	        <div class="colum_3">
 
 	          <h1>Contenido</h1>
 
+	           <div class="row2">
+		    <a href="#Nuestro_Menu">
+			<label>Nuestro Menu</label>
+		    </a>
+		  </div>
+
 	          <div class="row2">
-	            <a href="#" target="_blank">
-	              <i class="fas fa-mobile-alt"></i>
-	              <label>Llamanos</label>
-	            </a>
+		    <a href="#Nuestras_Ofertas">
+			<label>Nuestras Ofertas</label>
+		    </a>
+		  </div>
+
+		  <div class="row2">
+		    <a href="#Donde_nos_Encontramos">
+			<label>¿Donde nos Encontramos?</label>
+		    </a>
+		  </div>
+
+	          <div class="row2">
+		    <a href="#Quienes_Somos">
+			<label>¿Quienes Somos?</label>
+		    </a>
+		  </div>
+
 	          </div>
 
         	</div>
