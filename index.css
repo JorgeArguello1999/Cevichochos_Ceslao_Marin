@@ -13,6 +13,10 @@ main h1{
   font-size: 2rem;
   line-height: 1.3em;
 }
+main h3{
+  font-size: 24px;
+  text-align: left;
+}
 main a{
   text-decoration: none;
   border-radius: 10px;
@@ -38,7 +42,15 @@ main{
 .menu dt{
   font-weight: 900;
 }
-.menu_dere h2{
+.menu ul{
+  text-align: justify;
+  list-style: none;
+}
+main img{
+  align: center;
+}
+/*
+ .menu_dere h2{
   text-align: right;
 }
 .menu_dere dl{
@@ -51,7 +63,13 @@ main{
   text-align: right;
   list-style: none;
 }
-.menu ul{
-  text-align: justify;
+*/
+.menu_dere{
+  text-align: right;
+}
+.menu_dere ul{
   list-style: none;
+}
+.menu_dere dt{
+  font-weight: 900;
 }
