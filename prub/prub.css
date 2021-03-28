@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.caja{
+    background-color: brown;
+    overflow: hidden;
+}
+.caja_1{
+    background-color: cadetblue;
+}
+.caja_2{
+    background-color: chocolate;
+}
+.item{
+    float: left;
+}
