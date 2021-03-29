@@ -64,6 +64,9 @@ main img{
   list-style: none;
 }
 */
+.flot{
+  overflow: hidden;
+}
 .menu_dere{
   text-align: right;
 }
@@ -72,4 +75,7 @@ main img{
 }
 .menu_dere dt{
   font-weight: 900;
+}
+.caja{
+  float: left;
 }
