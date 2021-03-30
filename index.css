@@ -76,6 +76,9 @@ main img{
 .menu_dere dt{
   font-weight: 900;
 }
+.menu_dere img{
+  align: center;
+}
 .caja{
   float: left;
 }
